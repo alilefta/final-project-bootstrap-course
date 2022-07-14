@@ -7872,9 +7872,9 @@ nav .navbar-nav .nav-item > a {
   line-height: 18px;
   color: #28749f; }
 
-main > section.jumbtron {
+main > section.jumbotron {
   height: 630px;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/jumbtron.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/jumbotron.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -7883,7 +7883,7 @@ main > section.jumbtron {
   align-items: center;
   justify-content: center;
   flex-direction: column; }
-  main > section.jumbtron h1, main > section.jumbtron .h1 {
+  main > section.jumbotron h1, main > section.jumbotron .h1 {
     font-family: "Inter", sans-serif;
     font-style: normal;
     font-weight: 700;
@@ -7893,7 +7893,7 @@ main > section.jumbtron {
     color: #ffffff;
     width: 70%;
     margin-bottom: 1.2rem; }
-  main > section.jumbtron p {
+  main > section.jumbotron p {
     font-family: "Inter", sans-serif;
     font-style: normal;
     font-weight: 700;
@@ -7901,7 +7901,7 @@ main > section.jumbtron {
     line-height: 19px;
     text-align: center;
     color: #ffffff; }
-  main > section.jumbtron button {
+  main > section.jumbotron button {
     background: #e45046;
     border-radius: 6px;
     padding: 11px 29px;
@@ -8187,7 +8187,7 @@ main > section.main--estimate .col-sm-12 {
       text-align: left; }
   nav .navbar-brand {
     margin-left: 0; }
-  main section.jumbtron h1, main section.jumbtron .h1 {
+  main section.jumbotron h1, main section.jumbotron .h1 {
     font-size: 40px;
     width: 49%; }
   main > section.main--estimate h3, main > section.main--estimate .h3 {
@@ -8203,7 +8203,7 @@ main > section.main--estimate .col-sm-12 {
     margin-top: 0px; } }
 
 @media (min-width: 1200px) {
-  main section.jumbtron h1, main section.jumbtron .h1 {
+  main section.jumbotron h1, main section.jumbotron .h1 {
     font-size: 48px;
     width: 38%; } }
 

@@ -87,10 +87,10 @@ nav .navbar-nav .nav-item > a {
 	color: #28749f;
 }
 
-main > section.jumbtron {
+main > section.jumbotron {
 	height: 630px;
 	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-		url("../images/jumbtron.jpg");
+		url("../images/jumbotron.jpg");
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -494,7 +494,7 @@ footer {
 	nav .navbar-brand {
 		margin-left: 0;
 	}
-	main section.jumbtron {
+	main section.jumbotron {
 		h1 {
 			font-size: 40px;
 			width: 49%;
@@ -528,7 +528,7 @@ footer {
 }
 
 @include media-breakpoint-up(xl) {
-	main section.jumbtron {
+	main section.jumbotron {
 		h1 {
 			font-size: 48px;
 			width: 38%;
