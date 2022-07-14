@@ -16,3 +16,8 @@ e.	Testimonials section which shows the reviews of the customers.
 7.	Footer component which has the contact us and contact info of the page.
 8.	The project has used Bootstrap components and the grid system heavily to achieve responsiveness of the pages across all screens.
 9.	A breadcrumb on the aboutus.html page to tell the user where is he now.
+
+### Live Demo 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/25d85f23-b7f3-4121-be18-0b69b6129ddc/deploy-status)](https://app.netlify.com/sites/finalproject-bootstrap-app/deploys)
+
+[https://finalproject-bootstrap-app.netlify.app](https://finalproject-bootstrap-app.netlify.app)
